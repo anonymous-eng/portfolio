@@ -186,6 +186,17 @@ const openSource = {
           name: "JavaScript"
         }
     },
+    {
+      name: "Portfolio",
+      description: "Minimalistic and fully responsive portfolio website, Beautifully crafted with subtle yet elegant animations that bring the UI to life.",
+      url: "https://github.com/anonymous-eng/portfolio",
+      demo: "https://portfolio-cyan-mu-46.vercel.app/",
+      primaryLanguage: 
+        {
+          color: "orange",
+          name: "JavaScript"
+        }
+    },
   ], // Set true or false to show Contact profile using Github, defaults to true
   display: true // Set false to hide this section, defaults to true
 };
