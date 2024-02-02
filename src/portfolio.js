@@ -18,7 +18,7 @@ const greeting = {
     "A passionate Full Stack Web Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1NK7QJN8W9qh1Fmo29Dvt4KgnXMwMAvN8/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1P_xK_3QcLumr0oD-k6Tba5sApZxmpxbz/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -190,7 +190,7 @@ const openSource = {
       name: "Portfolio",
       description: "Minimalistic and fully responsive portfolio website, Beautifully crafted with subtle yet elegant animations that bring the UI to life.",
       url: "https://github.com/anonymous-eng/portfolio",
-      demo: "https://portfolio-cyan-mu-46.vercel.app/",
+      demo: "https://harshkportfolio-chi.vercel.app/",
       primaryLanguage: 
         {
           color: "orange",
