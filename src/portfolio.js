@@ -154,6 +154,17 @@ const openSource = {
         }
     },
     {
+      name: "DocBlock",
+      description: "Blockchain based decentralized Patient Record Management Platform on Ethereum",
+      url: "https://github.com/anonymous-eng/doc-block",
+      demo: "https://doc-block-ten.vercel.app/",
+      primaryLanguage: 
+        {
+          color: "orange",
+          name: "JavaScript"
+        }
+    },
+    {
       name: "TalkZone",
       description: "A Full Stack Chatting App that enables real-time communication between users via messaging.",
       url: "https://github.com/anonymous-eng/talkzone",
